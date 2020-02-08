@@ -1,5 +1,5 @@
 # Java 8 Streams
-This programme demonstrates networking with streams in Java.
+This programme demonstrates working with streams in Java.
 
 ## Purpose
 This programme was written as part of an assignment.<br>
